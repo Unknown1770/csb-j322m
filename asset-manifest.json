@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://unknown1770.github.io/csb-j322m/static/css/main.c5c03456.chunk.css",
+    "main.js": "https://unknown1770.github.io/csb-j322m/static/js/main.1935b9d9.chunk.js",
+    "main.js.map": "https://unknown1770.github.io/csb-j322m/static/js/main.1935b9d9.chunk.js.map",
+    "runtime-main.js": "https://unknown1770.github.io/csb-j322m/static/js/runtime-main.db34850e.js",
+    "runtime-main.js.map": "https://unknown1770.github.io/csb-j322m/static/js/runtime-main.db34850e.js.map",
+    "static/js/2.434c2efe.chunk.js": "https://unknown1770.github.io/csb-j322m/static/js/2.434c2efe.chunk.js",
+    "static/js/2.434c2efe.chunk.js.map": "https://unknown1770.github.io/csb-j322m/static/js/2.434c2efe.chunk.js.map",
+    "index.html": "https://unknown1770.github.io/csb-j322m/index.html",
+    "static/css/main.c5c03456.chunk.css.map": "https://unknown1770.github.io/csb-j322m/static/css/main.c5c03456.chunk.css.map",
+    "static/js/2.434c2efe.chunk.js.LICENSE.txt": "https://unknown1770.github.io/csb-j322m/static/js/2.434c2efe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db34850e.js",
+    "static/js/2.434c2efe.chunk.js",
+    "static/css/main.c5c03456.chunk.css",
+    "static/js/main.1935b9d9.chunk.js"
+  ]
+}
